@@ -1,0 +1,40 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+15-01-2025	20:12:00.995	 INFO	  2120	  1468	DllMain	"DLL_PROCESS_ATTACH Mon Oct  7 21:44:09 2024 11.3.2428.18"
+15-01-2025	20:12:01.000	 INFO	  2120	  1468	DllMain	"PROCESS ATTACHED"
+15-01-2025	20:12:01.002	 INFO	  2120	 12128	LateInitialization	"Intialization..."
+15-01-2025	20:12:01.005	 INFO	  2120	 12128	LoadDisplayDevicesName	"DisplayDevices : "
+15-01-2025	20:12:01.007	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY1"
+15-01-2025	20:12:01.009	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY2"
+15-01-2025	20:12:01.011	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY3"
+15-01-2025	20:12:01.013	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY4"
+15-01-2025	20:12:01.015	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY5"
+15-01-2025	20:12:01.017	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY6"
+15-01-2025	20:12:01.019	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY7"
+15-01-2025	20:12:01.021	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY8"
+15-01-2025	20:12:01.023	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY9"
+15-01-2025	20:12:01.024	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY10"
+15-01-2025	20:12:01.026	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY11"
+15-01-2025	20:12:01.027	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY12"
+15-01-2025	20:12:01.029	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY13"
+15-01-2025	20:12:01.031	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY14"
+15-01-2025	20:12:01.032	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY15"
+15-01-2025	20:12:01.034	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY16"
+15-01-2025	20:12:01.036	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY17"
+15-01-2025	20:12:01.038	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY18"
+15-01-2025	20:12:01.040	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY19"
+15-01-2025	20:12:01.042	 INFO	  2120	 12128	LoadDisplayDevicesName	"\\.\DISPLAY20"
+15-01-2025	20:12:01.051	ERROR	  2120	 12128	LateInitialization	"std::exception caught = GetFileVersionInfoSizeW failed with 1813
+"
+15-01-2025	20:12:01.052	 INFO	  2120	 12128	LateInitialization	"Exe = C:\Program Files\Git\usr\bin\bash.exe
+ProductName = 
+FileDescription = 
+ShadowFolder = %LOCALAPPDATA%\EndpointDLP\print-shadow
+ParsingMode = Hybrid
+DeletePrinterShadowFiles = 1
+PrinterUseDisplayDevicesList = 0
+EnablePrinterEscapeProcessing = 1
+EnableWatermarkForAll = 0
+MaxPrintPages = 4294967295
+GdiPlusToken = 28786828
+ExcludedEscapes = 4117, 37, 4118, 4115, 4121, "
+15-01-2025	20:12:01.054	 INFO	  2120	 12128	LateInitialization	"Intialization finished"
